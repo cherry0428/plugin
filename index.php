@@ -5,7 +5,7 @@
   Description: Simple WordPress plugin for  Structured Data
   Version: 1.0
   Author: BSD Team
-  Author URI:
+  Author URI:       
  * GitHub Plugin URI: https://github.com/jaspreetsingh0428/hello_world
  */
 
